@@ -5,7 +5,7 @@ A lightweight binary classifier that detects prompt injection attempts in chatbo
 
 ## Motivation
 
-As someone deeply involved in building LLM-based chatbots, I’ve become increasingly interested in the security risks they face, especially with prompt injection attacks. With growing interest in cybersecurity, I wanted to build a classifier that can help preemptively detect and block such attacks before they ever reach an LLM call.
+As someone who's worked deeply with LLMs, I’ve become increasingly interested in the security risks they face, especially with prompt injection attacks. With growing interest in cybersecurity, I wanted to build a classifier that can help preemptively detect and block such attacks before they ever reach an LLM call.
 
 ## Model & Architecture
 
