@@ -20,7 +20,7 @@ This project fine-tunes a [`microsoft/deberta-v3-base`](https://huggingface.co/m
 - **Test Accuracy**: **91.6%**
 - We see the model is strong at detecting prompt injections.
 
-## 🛠️ Training Details
+## Training Details
 
 | Hyperparameter     | Value           |
 |--------------------|-----------------|
