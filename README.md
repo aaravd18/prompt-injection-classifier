@@ -12,8 +12,8 @@ As someone who's worked deeply with LLMs and chatbots, I’ve become increasingl
 This project fine-tunes a [`microsoft/deberta-v3-base`](https://huggingface.co/microsoft/deberta-v3-base) transformer encoder on the [`deepset/prompt-injections`](https://huggingface.co/datasets/deepset/prompt-injections) dataset.
 
 - **Architecture**: Transformer encoder + MLP classification head
-- **Objective**: Binary classification — Standard Prompt vs Injection
-- **Tokenizer**: DeBERTa V3 tokenizer (slow mode fallback for compatibility)
+- **Objective**: Binary classification of a benign prompt vs injection
+- **Tokenizer**: DeBERTa V3 tokenizer
 
 ## Results
 
