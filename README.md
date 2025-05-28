@@ -18,7 +18,7 @@ This project fine-tunes a [`microsoft/deberta-v3-base`](https://huggingface.co/m
 ## Results
 
 - **Test Accuracy**: **91.6%**
-- Model demonstrates strong performance in detecting diverse injection styles.
+- We see the model is strong at detecting prompt injections.
 
 ## 🛠️ Training Details
 
